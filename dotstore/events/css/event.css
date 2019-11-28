@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #F8F9F9;
+	font-family: 'Cairo', sans-serif;
+	
+}
+
+
+#event1{
+	border-bottom: 1px solid black;
+}
+
+.event-img{
+	padding-top: 120px;
+	
+}
+#event2{
+	padding-top: 40px;
+	
+	
+}
+#event2 h4 {padding-bottom: 10px;}
+
+#event3{
+	padding-top: 40px;
+	
+}
+#but {
+	margin-top:   112px;
+	width: 100%;
+	height: 30%;
+	background-color: black;
+	color:#eac412;
+	border: none;
+	font-size: 24px;
+}
+
+#but:hover{
+	
+	background-color: #eac412;
+	color:#000;
+	
+}
+
+#but a, #but a:visited{
+	color:#eac412;
+	text-decoration: none;
+}
+#but:hover> a{
+	color:#000;
+	text-decoration: none;
+}
+
+
+
+ 
+
+
